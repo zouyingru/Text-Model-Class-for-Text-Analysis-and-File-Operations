@@ -1,0 +1,3 @@
+1.William Shakespeare      Rousillon.
+2.My first resource is from Shakespeare and my second resource is from Ruousillon's passage, after comparing with new1(Florence's passage),new2(My essay),new3(a poem),new4(the definition of discrimination), I found that these four sources is more similar with Rousillon's passage.
+3.It's convenience for people to check passage. However, this program can't find out literary form of different passage, so it can add some specific words to find the similarity or difference between different passages.
